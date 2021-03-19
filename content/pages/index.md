@@ -24,7 +24,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Testimonials
     subtitle: What My Clients Say
     grid_items:
       - content: >-
