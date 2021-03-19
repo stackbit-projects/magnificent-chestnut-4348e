@@ -3,9 +3,11 @@ title: Home
 sections:
   - type: hero_section
     title: CSS Minifiers
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: |-
+      Unminify
+        JS (Javascript), XML, JSON, SQL, CSS, HTML tool is used to clear, reformat,
+        deminify, uncompress, and beautify ugly codes online, make it unminified and
+        readable.">
     actions:
       - label: Contact Me
         url: /contact
